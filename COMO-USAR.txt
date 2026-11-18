@@ -1,0 +1,11 @@
+RETALHO - editor de video web
+
+1. Instale o Node.js (versao LTS): https://nodejs.org
+2. Abra um terminal nesta pasta e rode:
+     npm install
+     npm run dev
+3. Abra no navegador o endereco que aparecer (ex.: http://localhost:5173)
+
+Para editar com o Claude: abra esta pasta no Claude Code (app desktop, aba Code,
+ou "claude" no terminal) e peca as mudancas. O README.md e a pasta docs/
+explicam a arquitetura.
